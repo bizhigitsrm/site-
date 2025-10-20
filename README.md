@@ -1,4 +1,4 @@
-# bswakes Portfolio Site  
+# Portfolio Site  
 *A modern portfolio website built with HTML, CSS & JavaScript — showcasing projects, animations and responsive design*
 
 ---
